@@ -92,7 +92,7 @@ const specialDates = [
 
 ## 许可证
 
-本项目采用 MIT 许可证，可自由使用和修改。
+本项目采用 Apache-2.0 license 许可证，可自由使用和修改。
 
 ---
 

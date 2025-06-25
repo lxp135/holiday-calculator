@@ -33,7 +33,7 @@ function getNextWeekend() {
     
     return {
         name: '周末',
-        date: nextWeekend.toISOString().split('T')[0],
+        date: nextWeekend,
         icon: '🎉',
         type: 'weekend'
     };
