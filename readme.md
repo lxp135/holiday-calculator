@@ -6,6 +6,10 @@ The "Holiday Countdown Tool" is a meticulously designed responsive HTML5 single-
 
 From the outset of its design, user experience was placed at the core of our development. We understand that an excellent tool must not only be powerful but also visually appealing and easy to operate. Therefore, the application adopts a modern visual style, utilizing a soft gradient background to create a relaxed and pleasant atmosphere. The card-based layout design ensures that each countdown event is distinct and prominent, making information glanceable. We paid particular attention to detail, assigning unique color themes and lively emoji icons to different types of countdowns (e.g., weekend, payday, holidays, retirement). This not only enhances visual appeal but also helps users quickly differentiate and identify the nature of various events. Furthermore, the smooth fade-in animation upon page load and the subtle lift effect on card hover are designed to provide a fluid and dynamic interactive experience, ensuring users feel delighted while using the application.
 
+### Interface Design
+
+![](interface.png)
+
 ### Core Functionality Breakdown
 
 1.  **Real-time Date and Time Display**: The top of the page clearly shows the current date, day of the week, and time accurate to the minute, ensuring users always have the latest time information.
