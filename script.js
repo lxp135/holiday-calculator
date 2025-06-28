@@ -20,10 +20,8 @@ function getNextWeekend() {
     const dayOfWeek = today.getDay(); // 0 = Sunday, 6 = Saturday
     let daysUntilWeekend;
     
-    if (dayOfWeek === 0) { // 今天是周日
-        daysUntilWeekend = 6; // 下周六
-    } else if (dayOfWeek === 6) { // 今天是周六
-        daysUntilWeekend = 1; // 明天周日
+    if (dayOfWeek === 0 || dayOfWeek === 6) { // 今天是周六或者周日
+        daysUntilWeekend = 0;
     } else {
         daysUntilWeekend = 6 - dayOfWeek; // 到本周六的天数
     }
